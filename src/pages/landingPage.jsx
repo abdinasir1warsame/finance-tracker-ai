@@ -109,7 +109,7 @@ export default function LandingPage() {
       </nav>
 
       {/* Hero Section */}
-      <section className=" py-16 md:py-24 px-6 md:px-12 lg:px-24">
+      <section className="3xl:h-[90vh] 3xl:py-48 py-16 md:py-24 px-6 md:px-12 lg:px-24">
         <div className="container mx-auto grid md:grid-cols-2 gap-12 items-center">
           <div>
             <h1 className="text-4xl md:text-5xl font-bold leading-tight mb-6">
